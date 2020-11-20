@@ -47,7 +47,7 @@ java -cp .:Lib/AbsoluteLayout.jar Cliente/ChatCliente
 
 
 ## Version
-Version 2.5 ClienteServidorHilos
+Version 2.6 ClienteServidorHilos
 
 ## Autor 
 * **Daniel Escobar Araujo** [DanielEscobar21](https://github.com/DanielEscobar21)
